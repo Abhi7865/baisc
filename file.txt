@@ -1,0 +1,25 @@
+1. ux- user exprience-customer issue, my product help, will it help, who are my target cu
+
+sigma 
+2. wire-frame:- sketch of your app , pages, layouts, very -low fiedility,ideating
+
+loan jour
+2 or 3 screens 
+mim clicks
+
+
+prototype:-
+clickable with alomst mathcing to real app colours, buttons
+testing 
+
+
+real development
+
+
+for creating sketch
+figma 
+sketch
+invision
+
+
+dribble site for reference

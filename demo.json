@@ -1,0 +1,359 @@
+{
+    "posting_instruction_batches": [
+        {
+            "id": "4ae44aae-cb36-4f6a-8d30-f9f543f1eb1d",
+            "create_request_id": "027eb24d-ed2c-465b-bb83-832af1587674",
+            "client_id": "internal_transfers",
+            "client_batch_id": "3689b9ba-37f1-4ef4-a740-5a66f03a8aa3",
+            "posting_instructions": [
+                {
+                    "id": "2a5cef1e-2a03-4968-9469-78586c4a445e",
+                    "client_transaction_id": "tx_5a1756b4-e5ec-4dad-bf99-8b56afa4e660",
+                    "inbound_hard_settlement": {
+                        "amount": "900",
+                        "denomination": "USD",
+                        "target_account": {
+                            "account_id": "LTIM43074690"
+                        },
+                        "internal_account_id": "1",
+                        "advice": true,
+                        "target_account_id": "LTIM43074690"
+                    },
+                    "pics": [],
+                    "instruction_details": {},
+                    "committed_postings": [
+                        {
+                            "credit": false,
+                            "amount": "900",
+                            "denomination": "USD",
+                            "account_id": "1",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        },
+                        {
+                            "credit": true,
+                            "amount": "900",
+                            "denomination": "USD",
+                            "account_id": "LTIM43074690",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        }
+                    ],
+                    "posting_violations": [],
+                    "account_violations": [],
+                    "restriction_violations": [],
+                    "contract_violations": [],
+                    "override": {
+                        "restrictions": {
+                            "all": false,
+                            "restriction_set_ids": []
+                        }
+                    },
+                    "transaction_code": null
+                }
+            ],
+            "batch_details": {},
+            "value_timestamp": "2023-03-17T07:52:27.643Z",
+            "status": "POSTING_INSTRUCTION_BATCH_STATUS_ACCEPTED",
+            "error": null,
+            "insertion_timestamp": "2023-03-17T07:52:24.000358Z",
+            "dry_run": false
+        },
+        {
+            "id": "83e3b0bf-94c1-4147-8252-37f870581f1d",
+            "create_request_id": "07fc1f87-1d70-403d-bf59-212cbfc0c5d4",
+            "client_id": "internal_transfers",
+            "client_batch_id": "8cce4bba-148d-48a9-a50c-41b269cbe4fd",
+            "posting_instructions": [
+                {
+                    "id": "3ba27d69-329d-46fb-aa83-a59e8482fa14",
+                    "client_transaction_id": "tx_500af0b7-fec9-4aab-b7f0-25404ddf9049",
+                    "inbound_hard_settlement": {
+                        "amount": "300",
+                        "denomination": "USD",
+                        "target_account": {
+                            "account_id": "LTIM43074690"
+                        },
+                        "internal_account_id": "1",
+                        "advice": true,
+                        "target_account_id": "LTIM43074690"
+                    },
+                    "pics": [],
+                    "instruction_details": {},
+                    "committed_postings": [
+                        {
+                            "credit": false,
+                            "amount": "300",
+                            "denomination": "USD",
+                            "account_id": "1",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        },
+                        {
+                            "credit": true,
+                            "amount": "300",
+                            "denomination": "USD",
+                            "account_id": "LTIM43074690",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        }
+                    ],
+                    "posting_violations": [],
+                    "account_violations": [],
+                    "restriction_violations": [],
+                    "contract_violations": [],
+                    "override": {
+                        "restrictions": {
+                            "all": false,
+                            "restriction_set_ids": []
+                        }
+                    },
+                    "transaction_code": null
+                }
+            ],
+            "batch_details": {},
+            "value_timestamp": "2023-03-17T07:52:21.153Z",
+            "status": "POSTING_INSTRUCTION_BATCH_STATUS_ACCEPTED",
+            "error": null,
+            "insertion_timestamp": "2023-03-17T07:52:17.523461Z",
+            "dry_run": false
+        },
+        {
+            "id": "c648ed5b-da00-4dfc-af3f-97b6c0de7d59",
+            "create_request_id": "bb479701-5887-487e-bd79-f4f385bd1380",
+            "client_id": "internal_transfers",
+            "client_batch_id": "8838e30b-f42d-40c4-afae-7de81541dfe2",
+            "posting_instructions": [
+                {
+                    "id": "68305fd2-7e41-4892-9e72-66359cc901a7",
+                    "client_transaction_id": "tx_a4fcff75-9f6d-43cd-9c76-b4b842a0552a",
+                    "inbound_hard_settlement": {
+                        "amount": "2300",
+                        "denomination": "USD",
+                        "target_account": {
+                            "account_id": "LTIM43074690"
+                        },
+                        "internal_account_id": "1",
+                        "advice": true,
+                        "target_account_id": "LTIM43074690"
+                    },
+                    "pics": [],
+                    "instruction_details": {},
+                    "committed_postings": [
+                        {
+                            "credit": false,
+                            "amount": "2300",
+                            "denomination": "USD",
+                            "account_id": "1",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        },
+                        {
+                            "credit": true,
+                            "amount": "2300",
+                            "denomination": "USD",
+                            "account_id": "LTIM43074690",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        }
+                    ],
+                    "posting_violations": [],
+                    "account_violations": [],
+                    "restriction_violations": [],
+                    "contract_violations": [],
+                    "override": {
+                        "restrictions": {
+                            "all": false,
+                            "restriction_set_ids": []
+                        }
+                    },
+                    "transaction_code": null
+                }
+            ],
+            "batch_details": {},
+            "value_timestamp": "2023-03-17T07:52:16.442Z",
+            "status": "POSTING_INSTRUCTION_BATCH_STATUS_ACCEPTED",
+            "error": null,
+            "insertion_timestamp": "2023-03-17T07:52:12.806862Z",
+            "dry_run": false
+        },
+        {
+            "id": "4762f8d9-6430-42e7-926e-eff9d52bc642",
+            "create_request_id": "c03f854e-f2f5-4a90-b994-6bde9cf606b7",
+            "client_id": "internal_transfers",
+            "client_batch_id": "711ed015-2fb7-45d2-a265-6b81353d2897",
+            "posting_instructions": [
+                {
+                    "id": "501d1167-3bba-4b56-906e-9c3176f36187",
+                    "client_transaction_id": "tx_547e835b-233d-417b-9e10-ccf1aa7e11f6",
+                    "inbound_hard_settlement": {
+                        "amount": "1100",
+                        "denomination": "USD",
+                        "target_account": {
+                            "account_id": "LTIM43074690"
+                        },
+                        "internal_account_id": "1",
+                        "advice": true,
+                        "target_account_id": "LTIM43074690"
+                    },
+                    "pics": [],
+                    "instruction_details": {},
+                    "committed_postings": [
+                        {
+                            "credit": false,
+                            "amount": "1100",
+                            "denomination": "USD",
+                            "account_id": "1",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        },
+                        {
+                            "credit": true,
+                            "amount": "1100",
+                            "denomination": "USD",
+                            "account_id": "LTIM43074690",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        }
+                    ],
+                    "posting_violations": [],
+                    "account_violations": [],
+                    "restriction_violations": [],
+                    "contract_violations": [],
+                    "override": {
+                        "restrictions": {
+                            "all": false,
+                            "restriction_set_ids": []
+                        }
+                    },
+                    "transaction_code": null
+                }
+            ],
+            "batch_details": {},
+            "value_timestamp": "2023-03-17T07:52:10.496Z",
+            "status": "POSTING_INSTRUCTION_BATCH_STATUS_ACCEPTED",
+            "error": null,
+            "insertion_timestamp": "2023-03-17T07:52:06.857667Z",
+            "dry_run": false
+        },
+        {
+            "id": "b2ccad95-8585-4ad4-8b62-4b6bba521a3e",
+            "create_request_id": "cbc048e9-78a5-4f7b-a59c-2bf8deec0670",
+            "client_id": "internal_transfers",
+            "client_batch_id": "66f54896-e051-48fe-9755-2d2c8921cb54",
+            "posting_instructions": [
+                {
+                    "id": "c89939cc-c377-4915-9a95-35efe7625dc8",
+                    "client_transaction_id": "tx_4b08366b-23d2-487e-b008-e9c36b64d97b",
+                    "inbound_hard_settlement": {
+                        "amount": "1000",
+                        "denomination": "USD",
+                        "target_account": {
+                            "account_id": "LTIM43074690"
+                        },
+                        "internal_account_id": "1",
+                        "advice": true,
+                        "target_account_id": "LTIM43074690"
+                    },
+                    "pics": [],
+                    "instruction_details": {},
+                    "committed_postings": [
+                        {
+                            "credit": false,
+                            "amount": "1000",
+                            "denomination": "USD",
+                            "account_id": "1",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        },
+                        {
+                            "credit": true,
+                            "amount": "1000",
+                            "denomination": "USD",
+                            "account_id": "LTIM43074690",
+                            "account_address": "DEFAULT",
+                            "asset": "COMMERCIAL_BANK_MONEY",
+                            "phase": "POSTING_PHASE_COMMITTED"
+                        }
+                    ],
+                    "posting_violations": [],
+                    "account_violations": [],
+                    "restriction_violations": [],
+                    "contract_violations": [],
+                    "override": {
+                        "restrictions": {
+                            "all": false,
+                            "restriction_set_ids": []
+                        }
+                    },
+                    "transaction_code": null
+                }
+            ],
+            "batch_details": {},
+            "value_timestamp": "2023-03-17T07:51:28.645Z",
+            "status": "POSTING_INSTRUCTION_BATCH_STATUS_ACCEPTED",
+            "error": null,
+            "insertion_timestamp": "2023-03-17T07:51:25.501163Z",
+            "dry_run": false
+        },
+        {
+            "id": "de3025f2-e3f3-4111-ae72-7529699f631f",
+            "create_request_id": "99923e81-3136-4cad-9d8c-a0cafc9f2f3b",
+            "client_id": "internal_transfers",
+            "client_batch_id": "5b1bfa6e-68ec-4b20-87c9-4b0e652ac350",
+            "posting_instructions": [
+                {
+                    "id": "56ea3d2f-d738-4f53-b2c4-4526d5b7c10c",
+                    "client_transaction_id": "tx_cf1f2f08-7292-4155-9e80-66c9fc009a3d",
+                    "inbound_hard_settlement": {
+                        "amount": "1000",
+                        "denomination": "GBP",
+                        "target_account": {
+                            "account_id": "LTIM43074690"
+                        },
+                        "internal_account_id": "1",
+                        "advice": true,
+                        "target_account_id": "LTIM43074690"
+                    },
+                    "pics": [],
+                    "instruction_details": {},
+                    "committed_postings": [],
+                    "posting_violations": [],
+                    "account_violations": [],
+                    "restriction_violations": [],
+                    "contract_violations": [
+                        {
+                            "account_id": "LTIM43074690",
+                            "type": "CONTRACT_VIOLATION_BREACH_TERMS_AND_CONDITIONS",
+                            "reason": "Postings received in unauthorised denomination GBP. Authorised denominations are USD, INR, EUR"
+                        }
+                    ],
+                    "override": {
+                        "restrictions": {
+                            "all": false,
+                            "restriction_set_ids": []
+                        }
+                    },
+                    "transaction_code": null
+                }
+            ],
+            "batch_details": {},
+            "value_timestamp": "2023-03-17T07:49:00.607Z",
+            "status": "POSTING_INSTRUCTION_BATCH_STATUS_REJECTED",
+            "error": null,
+            "insertion_timestamp": "2023-03-17T07:48:57.057394Z",
+            "dry_run": false
+        }
+    ],
+    "previous_page_token": "",
+    "next_page_token": ""
+}

@@ -1,0 +1,21 @@
+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
+
+python "C:\Users\10698764\Desktop\ChatGPT\test.py"
+python "C:\Users\10698764\Desktop\ChatGPT\app.py"
+
+
+
+INBOUND SETTLEMNET
+
+1. tell me  the  total addition of inbound  settlement amounts and show them
+2. tell me about  all inbound settlement amounts which are greater than 100 and show amounts and date
+3. tell me details of all inbound hard settlement
+
+
+transaction questions
+
+1. Total UPI transaction amount
+2. When did i pay Jio bill ?
+3. how many UP transactions greater than 500?
+4. how much money i transfer to RAMANIYAM MAGNUM tell me about this transaction
+count all upi transactions and tell me total of that

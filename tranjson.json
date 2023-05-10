@@ -1,0 +1,292 @@
+{
+  "Sheet 1": [
+    {
+      "Date": "01/01/23",
+      "Narration": "UPI-DEVHIDPAYTM-DEVHID@PAYTM-KKBK0000728-306019845871-UPI",
+      "Chq./Ref.No.": "0000306019845871",
+      "Value Dt": "01/03/23",
+      "Withdrawal Amt.": 160,
+      "Closing Balance": 329657.09
+    },
+    {
+      "Date": "01/01/23",
+      "Narration": "UPI-SUGANTHI MUTHUKRISHN-RRAMYA.6044@OKAXIS-HDFC0004666-306033172619-UPI",
+      "Chq./Ref.No.": "0000306033172619",
+      "Value Dt": "01/03/23",
+      "Deposit Amt.": 15000,
+      "Closing Balance": 344657.09
+    },
+    {
+      "Date": "01/01/23",
+      "Narration": "UPI-SHIVAJI RAMRAO NUKUL-9356415334@IBL-ICIC0003365-342629980585-UPI",
+      "Chq./Ref.No.": "0000342629980585",
+      "Value Dt": "01/03/23",
+      "Withdrawal Amt.": 133,
+      "Closing Balance": 344524.09
+    },
+    {
+      "Date": "02/01/23",
+      "Narration": "UPI-MR BALAJI RAGHUNATH -Q95649618@YBL-MAHB0001773-342789273015-UPI",
+      "Chq./Ref.No.": "0000342789273015",
+      "Value Dt": "02/03/23",
+      "Withdrawal Amt.": 167,
+      "Closing Balance": 344357.09
+    },
+    {
+      "Date": "02/01/23",
+      "Narration": "IMPS-306112371550-B ISWARYA-HDFC-XXXXXXXXXX8473-MONTHLY PAYOUT",
+      "Chq./Ref.No.": "0000306112371550",
+      "Value Dt": "02/03/23",
+      "Deposit Amt.": 8000,
+      "Closing Balance": 352357.09
+    },
+    {
+      "Date": "02/02/23",
+      "Narration": "UPI-MAHENDRA YUVRAJ PATI-MAHENDRAPATIL2025-1@OKAXIS-UTIB0000037-306176890213-UPI",
+      "Chq./Ref.No.": "0000306176890213",
+      "Value Dt": "02/03/23",
+      "Withdrawal Amt.": 140,
+      "Closing Balance": 352217.09
+    },
+    {
+      "Date": "02/02/23",
+      "Narration": "UPI-NILKANT SUMANT BUTAK-PAYTMQR2810050501019MA93S9HDSKQ@PAYTM-PYTM0123456-342760114365-UPI",
+      "Chq./Ref.No.": "0000342760114365",
+      "Value Dt": "02/03/23",
+      "Withdrawal Amt.": 84,
+      "Closing Balance": 352133.09
+    },
+    {
+      "Date": "03/02/23",
+      "Narration": "UPI-AWATE DHANJAY BHIMRA-9922264720@YBL-TJSB0000031-342879114899-UPI",
+      "Chq./Ref.No.": "0000342879114899",
+      "Value Dt": "03/03/23",
+      "Withdrawal Amt.": 250,
+      "Closing Balance": 351883.09
+    },
+    {
+      "Date": "03/02/23",
+      "Narration": "UPI-MAHENDRA YUVRAJ PATI-MAHENDRAPATIL2025-1@OKAXIS-UTIB0000037-306249217405-UPI",
+      "Chq./Ref.No.": "0000306249217405",
+      "Value Dt": "03/03/23",
+      "Withdrawal Amt.": 50,
+      "Closing Balance": 351833.09
+    },
+    {
+      "Date": "03/02/23",
+      "Narration": "UPI-PRASHANT PARMESHWAR -PAYTMQR28100505010113IX23ZZVIG7@PAYTM-PYTM0123456-342834418100-UPI",
+      "Chq./Ref.No.": "0000342834418100",
+      "Value Dt": "03/03/23",
+      "Withdrawal Amt.": 580,
+      "Closing Balance": 351253.09
+    },
+    {
+      "Date": "04/02/23",
+      "Narration": "UPI-BILLDESKTEZ-BILLDESK.TATA-SKY@ICICI-ICIC0DC0099-306383464711-UPI",
+      "Chq./Ref.No.": "0000306383464711",
+      "Value Dt": "04/03/23",
+      "Withdrawal Amt.": 450,
+      "Closing Balance": 350803.09
+    },
+    {
+      "Date": "05/02/23",
+      "Narration": "00881050327014-TPT-MARCH RENT-BALASUBRAMANIAN RANGANATHAN",
+      "Chq./Ref.No.": "0000000441317571",
+      "Value Dt": "05/03/23",
+      "Deposit Amt.": 10000,
+      "Closing Balance": 360803.09
+    },
+    {
+      "Date": "06/02/23",
+      "Narration": "ACH D- INDIAN CLEARING CORP-P9211238X030",
+      "Chq./Ref.No.": "0000009476532132",
+      "Value Dt": "06/03/23",
+      "Withdrawal Amt.": 5000,
+      "Closing Balance": 355803.09
+    },
+    {
+      "Date": "06/02/23",
+      "Narration": "ACH D- INDIAN CLEARING CORP-P9211238X030",
+      "Chq./Ref.No.": "0000009476486338",
+      "Value Dt": "06/03/23",
+      "Withdrawal Amt.": 2500,
+      "Closing Balance": 353303.09
+    },
+    {
+      "Date": "06/03/23",
+      "Narration": "ACH D- INDIAN CLEARING CORP-P9211238X030",
+      "Chq./Ref.No.": "0000009476486649",
+      "Value Dt": "06/03/23",
+      "Withdrawal Amt.": 2500,
+      "Closing Balance": 350803.09
+    },
+    {
+      "Date": "06/03/23",
+      "Narration": "ACH D- INDIAN CLEARING CORP-P9211238X030",
+      "Chq./Ref.No.": "0000009476548837",
+      "Value Dt": "06/03/23",
+      "Withdrawal Amt.": 2500,
+      "Closing Balance": 348303.09
+    },
+    {
+      "Date": "06/03/23",
+      "Narration": "00602300000434-020910517",
+      "Chq./Ref.No.": "0000303065039378",
+      "Value Dt": "06/03/23",
+      "Deposit Amt.": 2502,
+      "Closing Balance": 350805.09
+    },
+    {
+      "Date": "22/03/23",
+      "Narration": "UPI-BHARATPEMERCHANT-BHARATPE.9042226964@ICICI-ICIC0DC0099-344701443057-PAY TO CHAI KINGS",
+      "Chq./Ref.No.": "0000344701443057",
+      "Value Dt": "22/03/23",
+      "Withdrawal Amt.": 55,
+      "Closing Balance": 176104.04
+    },
+    {
+      "Date": "22/03/23",
+      "Narration": "UPI-COFFEE SHASTRA DLF-PAYTM-76512865@PAYTM-PYTM0123456-308104656587-UPI",
+      "Chq./Ref.No.": "0000308104656587",
+      "Value Dt": "22/03/23",
+      "Withdrawal Amt.": 130,
+      "Closing Balance": 175974.04
+    },
+    {
+      "Date": "23/03/23",
+      "Narration": "UPI-THILAGAVATHI-HOMEMADE0281@OKSBI-HDFC0009637-344854370482-UPI",
+      "Chq./Ref.No.": "0000344854370482",
+      "Value Dt": "23/03/23",
+      "Withdrawal Amt.": 880,
+      "Closing Balance": 175094.04
+    },
+    {
+      "Date": "26/04/23",
+      "Narration": "UPI-REKHA G-Q206092217@YBL-YESB0YBLUPI-308529959706-UPI",
+      "Chq./Ref.No.": "0000308529959706",
+      "Value Dt": "26/03/23",
+      "Withdrawal Amt.": 210,
+      "Closing Balance": 174884.04
+    },
+    {
+      "Date": "27/04/23",
+      "Narration": "UPI-SUGANTHI MUTHUKRISHN-RRAMYA.6044@OKAXIS-HDFC0004666-345242457920-UPI",
+      "Chq./Ref.No.": "0000345242457920",
+      "Value Dt": "27/03/23",
+      "Withdrawal Amt.": 10000,
+      "Closing Balance": 164884.04
+    },
+    {
+      "Date": "27/04/23",
+      "Narration": "UPI-SUGANTHI MUTHUKRISHN-RRAMYA.6044@OKAXIS-HDFC0004666-308669476630-UPI",
+      "Chq./Ref.No.": "0000308669476630",
+      "Value Dt": "27/03/23",
+      "Withdrawal Amt.": 6000,
+      "Closing Balance": 158884.04
+    },
+    {
+      "Date": "27/04/23",
+      "Narration": "UPI-RAMYA  S-RAMYASRINIVASA@OKHDFCBANK-SBIN0001985-308615475032-UPI",
+      "Chq./Ref.No.": "0000308615475032",
+      "Value Dt": "27/03/23",
+      "Withdrawal Amt.": 50,
+      "Closing Balance": 158834.04
+    },
+    {
+      "Date": "27/04/23",
+      "Narration": "UPI-JIO MOBILITY-JIO@YESBANK-YESB0000248-308621079193-JIO20BR000962ALIO2",
+      "Chq./Ref.No.": "0000308621079193",
+      "Value Dt": "27/03/23",
+      "Withdrawal Amt.": 259,
+      "Closing Balance": 158575.04
+    },
+    {
+      "Date": "29/04/23",
+      "Narration": "NEFT CR-SCBL0036001-LTIMINDTREE LIMITED-AXXXXXX-IN1ON23032901IRT",
+      "Chq./Ref.No.": "IN1ON23032901IRT",
+      "Value Dt": "29/03/23",
+      "Deposit Amt.": 3646,
+      "Closing Balance": 530792.04
+    },
+    {
+      "Date": "30/04/23",
+      "Narration": "UPI-ATHASH90OKICICI-A.THASH90@OKICICI-IDIB000T130-308920945485-UPI",
+      "Chq./Ref.No.": "0000308920945485",
+      "Value Dt": "30/03/23",
+      "Withdrawal Amt.": 396,
+      "Closing Balance": 530396.04
+    },
+    {
+      "Date": "31/04/23",
+      "Narration": "IB BILLPAY DR-HDFCSI-485498XXXXXX1192",
+      "Chq./Ref.No.": "IB31093807866350",
+      "Value Dt": "31/03/23",
+      "Withdrawal Amt.": 100000,
+      "Closing Balance": 430396.04
+    },
+    {
+      "Date": "31/04/23",
+      "Narration": "NEFT DR-IDFB0080107-RAMANIYAM MAGNUM-NETBANK, MUM-N090232394533268-FLAT 117 MAGNUM",
+      "Chq./Ref.No.": "N090232394533268",
+      "Value Dt": "31/03/23",
+      "Withdrawal Amt.": 12610.5,
+      "Closing Balance": 417785.54
+    },
+    {
+      "Date": "********",
+      "Narration": "**********************************",
+      "Chq./Ref.No.": "************",
+      "Value Dt": "********",
+      "Withdrawal Amt.": "******************",
+      "Deposit Amt.": "******************",
+      "Closing Balance": "******************"
+    },
+    {
+      "Date": "*********************************************************************************************************************************"
+    },
+    {
+      "Date": "STATEMENT SUMMARY  :-"
+    },
+    {
+      "Date": "Opening Balance",
+      "Withdrawal Amt.": "Debits",
+      "Deposit Amt.": "Credits",
+      "Closing Balance": "Closing Bal"
+    },
+    {
+      "Date": 329817.09,
+      "Withdrawal Amt.": 615241.5,
+      "Deposit Amt.": 485655.95,
+      "Closing Balance": 200231.54
+    },
+    {
+      "Withdrawal Amt.": "Dr Count",
+      "Deposit Amt.": "Cr Count"
+    },
+    {
+      "Withdrawal Amt.": 56,
+      "Deposit Amt.": 10
+    },
+    {
+      "Date": "Generated On:",
+      "Narration": "03-Apr-2023 14:04",
+      "Chq./Ref.No.": "Generated By:",
+      "Value Dt": "7394080",
+      "Withdrawal Amt.": "Requesting Branch Code:",
+      "Deposit Amt.": "NET"
+    },
+    {
+      "Date": "State account branch GSTN:",
+      "Narration": "36AAACH2702H1Z1"
+    },
+    {
+      "Date": "HDFC Bank GSTIN number details are available at \nhttps://www.hdfcbank.com/personal/making-payments/online-tax-payment/goods-and-service-tax."
+    },
+    {
+      "Date": "Registered Office Address: HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai 400013"
+    },
+    {
+      "Date": "---  End Of Statement ---"
+    }
+  ]
+}
